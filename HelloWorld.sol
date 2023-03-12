@@ -6,6 +6,7 @@ contract HelloWorld {
     function hello() public view returns(string memory)
     {
         return hellomessage;
-    }
+    }'
+    //
   
 }
